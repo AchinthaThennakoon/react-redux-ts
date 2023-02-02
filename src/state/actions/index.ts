@@ -13,3 +13,4 @@ interface BankruptAction {
 }
 
 export type Action = DepositAction | WithdrwaAction | BankruptAction;
+ 
